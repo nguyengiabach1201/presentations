@@ -28,10 +28,33 @@ const gallery1 = [
         src: "./imgs/8.jpg",
         des: "Sạt lở bờ biển Vinh Hải liên tiếp trong những năm gần đây",
     },
-
     {
         src: "./imgs/10.jpg",
         des: "Biến đổi khí hậu gây lũ lụt diện rộng trên địa bàn tỉnh",
+    },
+    {
+        src: "./imgs/11.jpg",
+        des: "Sạt lở đất gây nhiều thiệt hại về người và của",
+    },
+    {
+        src: "./imgs/12.jpg",
+        des: "Sạt lở đất do lũ lụt tại Thủy điện Rào Trăng 3",
+    },
+    {
+        src: "./imgs/13.webp",
+        des: "Trận lụt lịch sử năm 1999",
+    },
+    {
+        src: "./imgs/14.webp",
+        des: "Trận lụt lịch sử năm 1999",
+    },
+    {
+        src: "./imgs/15.jpg",
+        des: "Sản lượng thủy hải sản giảm còn một nửa so với trước năm 1975",
+    },
+    {
+        src: "./imgs/16.jpg",
+        des: "Gần 30 người chết mỗi năm do các trận lũ lụt",
     },
 ];
 const gallery2 = [
@@ -46,6 +69,22 @@ const gallery2 = [
     {
         src: "./imgs/4.jpg",
         des: "Trồng rừng ven đầm phá là một trong những giải lâu dài, bền vững",
+    },
+    {
+        src: "./imgs/17.jpg",
+        des: "Nhặt rác để bảo vệ môi trường",
+    },
+    {
+        src: "./imgs/18.jpg",
+        des: "Phủ xanh đồi trọc để bù đắp cho các trận cháy rừng",
+    },
+    {
+        src: "./imgs/19.webp",
+        des: "Tiết kiệm điện để bảo vệ môi trường",
+    },
+    {
+        src: "./imgs/20.jpg",
+        des: "Chạy bộ, đạp xe để giảm lượng phát thải khí nhà kính",
     },
 ];
 
@@ -79,18 +118,40 @@ function changeGallery() {
         "keydown",
         (event) => {
             var name = event.key;
-            if (name == "ArrowDown" || name == "ArrowRight") {
+            if (name == "ArrowRight") {
                 if (set < 2) {
                     set += 1;
                     counter = 0;
                     changeImg();
                 }
             }
-            if (name == "ArrowUp" || name == "ArrowLeft") {
+            if (name == "ArrowLeft") {
                 if (set > 0) {
                     set -= 1;
                     changeImg();
                 }
+            }
+            if (name == "ArrowDown") {
+                counter += 1;
+                if (set == 1 && counter >= gallery1.length) {
+                    counter = 0;
+                } else if (set == 2 && counter >= gallery2.length) {
+                    counter = 0;
+                }
+                changeImg();
+            }
+            if (name == "ArrowUp") {
+                counter -= 2;
+                console.log(counter);
+                if (counter < 0) {
+                    if (set == 1) {
+                        counter = gallery1.length - 1;
+                    } else if (set == 2) {
+                        counter = gallery2.length - 1;
+                    }
+                }
+                // console.log(counter);
+                changeImg();
             }
         },
         false
