@@ -12,3 +12,4 @@ All of my presentations
 | 6 | mechanic.html            | Sep 25/2024 | Canva         |
 | 7 | climate-change/          | Sep 30/2024 | Custom-built  |
 | 8 | information.html         | Sep 30/2024 | Canva         |
+| 9 | ww2.html                 | Oct 6/2024  | Canva         |
