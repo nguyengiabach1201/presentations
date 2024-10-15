@@ -20,4 +20,4 @@ All of my presentations
 | 14 | dream-city-poster.html   | Oct 16/2024 | Canva         | English      | A poster use with `Dream City` |
 
 > [!NOTE]
-> `EX`: Experiential Activities, `CE`: Civic Education
+> `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
