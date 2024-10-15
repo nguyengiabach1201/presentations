@@ -17,7 +17,7 @@ All of my presentations
 | 11 | school-age/              | Oct 9/2024  | Custom-built  | Litterature  |                                |
 | 12 | community-service/       | Oct 9/2024  | Argoo         | CE           |                                |
 | 13 | dream-city.html          | Oct 16/2024 | Canva         | English      |                                |
-| 13 | dream-city-poster.html   | Oct 16/2024 | Canva         | English      | A poster use for `Dream City`  |
+| 14 | dream-city-poster.html   | Oct 16/2024 | Canva         | English      | A poster use with `Dream City` |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education
