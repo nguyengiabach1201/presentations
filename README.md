@@ -18,6 +18,7 @@ All of my presentations
 | 12 | [community-service/](https://nguyengiabach.com/presentations/community-service)         | Oct 9/2024  | Argoo         | CE           |                                |
 | 13 | [dream-city.html](https://nguyengiabach.com/presentations/dream-city)                   | Oct 16/2024 | Canva         | English      |                                |
 | 14 | [dream-city-poster.html](https://nguyengiabach.com/presentations/dream-city-poster)     | Oct 16/2024 | Canva         | English      | A poster use with `Dream City` |
+| 15 | [technology-labor-market.html](https://nguyengiabach.com/presentations/technology-labor-market)| Oct 16/2024 | Canva  | English      |                                |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
