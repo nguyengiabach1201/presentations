@@ -1,7 +1,3 @@
-<p align="center">
-<img src="./nguyengiabach1201.jpg" alt="nguyengiabach1201" width="200" style="border-radius: 10px;">
-</p>
-
 Here is where I store all of my presentations:
 
 |    | Name                                                                                    | Date        | Made with     | Subject      | Note                           |
