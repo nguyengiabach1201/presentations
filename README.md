@@ -1,10 +1,8 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/44cccfdc-c00b-427c-bc55-e4d314a5f202" alt="nguyengiabach1201" width="256" style="border-radius: 10px;">
+<img src="https://github.com/user-attachments/assets/44cccfdc-c00b-427c-bc55-e4d314a5f202" alt="nguyengiabach1201" width="200" style="border-radius: 10px;">
 </p>
 
-# Presentations
-
-All of my presentations
+Here is where I store all of my presentations:
 
 |    | Name                                                                                    | Date        | Made with     | Subject      | Note                           |
 |----|-----------------------------------------------------------------------------------------|-------------|---------------|--------------|--------------------------------|
