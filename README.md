@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/44cccfdc-c00b-427c-bc55-e4d314a5f202" alt="nguyengiabach1201" width="200" style="border-radius: 10px;">
+<img src="./nguyengiabach1201.jpg" alt="nguyengiabach1201" width="200" style="border-radius: 10px;">
 </p>
 
 Here is where I store all of my presentations:
