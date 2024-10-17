@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/44cccfdc-c00b-427c-bc55-e4d314a5f202" alt="nguyengiabach1201" width="256" style="border-radius: 10px;">
+</p>
+
 # Presentations
 
 All of my presentations
