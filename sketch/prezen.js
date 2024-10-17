@@ -8,7 +8,7 @@
 // converter.setOption("tasklists", "true");
 // converter.setFlavor('github');
 
-fetch("./sketch/sketch.md")
+fetch("./sketch.md")
     .then((response) => response.text())
     .then((textString) => {
         // var html = converter.makeHtml(textString);

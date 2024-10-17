@@ -7,7 +7,7 @@ Here is where I store all of my presentations:
 | 3  | [mua-nuoc-noi/](https://nguyengiabach.com/presentations/mua-nuoc-noi)                   | Apr 11/2024 | Prezen (v1.0) | Litterature  |                                |
 | 4  | [study-abroad/](https://nguyengiabach.com/presentations/study-abroad)                   | May 09/2024 | Prezen (v1.0) | Art          |                                |
 | 5  | [geography-16-9-2024.html](https://nguyengiabach.com/presentations/geography-16-9-2024) | Sep 16/2024 | Canva         | Geography    |                                |
-| 6  | [sketch.html](https://nguyengiabach.com/presentations/sketch)                           | Sep 16/2024 | Prezen (v2)   | Art          |                                |
+| 6  | [sketch/](https://nguyengiabach.com/presentations/sketch)                               | Sep 16/2024 | Prezen (v2)   | Art          |                                |
 | 7  | [mechanic.html](https://nguyengiabach.com/presentations/mechanic)                       | Sep 25/2024 | Canva         | Technology   |                                |
 | 8  | [climate-change/](https://nguyengiabach.com/presentations/climate-change)               | Sep 30/2024 | Custom-built  | Litterature  |                                |
 | 9  | [information.html](https://nguyengiabach.com/presentations/information)                 | Sep 30/2024 | Canva         | IT           |                                |
