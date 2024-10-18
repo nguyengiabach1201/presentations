@@ -18,7 +18,7 @@ Here is where I store all of my presentations:
 | 14 | [dream-city/](https://nguyengiabach.com/presentations/dream-city)                       | Oct 16/2024 | Canva         | English      |                                |
 | 15 | [dream-city/poster.html](https://nguyengiabach.com/presentations/dream-city/poster)     | Oct 16/2024 | Canva         | English      | A poster use with `Dream City` |
 | 16 | [technology-labor-market.html](https://nguyengiabach.com/presentations/technology-labor-market)| Oct 17/2024 | Canva  | Technology   |                                |
-| 17 | [20-10-2024/](https://nguyengiabach.com/presentations/20-10-2024)| Oct 19/2024 | Canva  |              |                                |
+| 17 | [20-10-2024/](https://nguyengiabach.com/presentations/20-10-2024)|Oct 19/2024 | Canva  |              |                                |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
