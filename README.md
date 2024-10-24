@@ -20,6 +20,8 @@ Here is where I store all of my presentations:
 | 16 | [technology-labor-market.html](https://nguyengiabach.com/presentations/technology-labor-market)| Oct 17/2024 | Canva  | Technology   |                                |
 | 17 | [20-10-2024/](https://nguyengiabach.com/presentations/20-10-2024)                       |Oct 19/2024  | Canva         |              | For International Women's Day  |
 | 18 | [vn-population-quiz/](https://nguyengiabach.com/presentations/vn-population-quiz)       |Oct 25/2024  | Argoo         | Geography    |                                |
+| 19 | [insurance/](https://nguyengiabach.com/presentations/insurance)                         |Oct 28/2024  | Canva         | Maths        |                                |
+| 20 | [insurance-calculator/](https://nguyengiabach.com/presentations/insurance-calculator)   |Oct 28/2024  | Custom-built  | Maths        | A website use with `Insurance` |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
