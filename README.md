@@ -1,7 +1,7 @@
 Here is where I store all of my presentations:
 
-|    | Name                                                                                    | Date        | Made with     | Subject     | Note                           |
-|----|-----------------------------------------------------------------------------------------|-------------|---------------|-------------|--------------------------------|
+| No | Name                                                                                    | Date        | Made with     | Subject     | Note                           |
+|:--:|-----------------------------------------------------------------------------------------|-------------|---------------|-------------|--------------------------------|
 | 1  | [seurat/](https://nguyengiabach.com/presentations/seurat)                               | Jan 29/2024 | Prezen (v0.5) | Art         | About artist George Seurat     |
 | 2  | [school-garden/](https://nguyengiabach.com/presentations/school-garden)                 | Apr 05/2024 | Prezen (v0.5) | EX          | The exploration of the garden  |
 | 3  | [mua-nuoc-noi/](https://nguyengiabach.com/presentations/mua-nuoc-noi)                   | Apr 11/2024 | Prezen (v1.0) | Litterature | Flood season in Mekong Delta   |
