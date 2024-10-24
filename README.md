@@ -17,7 +17,7 @@ Here is where I store all of my presentations:
 | 13 | [community-service/](https://nguyengiabach.com/presentations/community-service)         | Oct 09/2024 | Argoo         | CE          | About community service        |
 | 14 | [dream-city/](https://nguyengiabach.com/presentations/dream-city)                       | Oct 16/2024 | Canva         | English     | Our dream Hue City             |
 | 15 | [dream-city/poster/](https://nguyengiabach.com/presentations/dream-city/poster)         | Oct 16/2024 | Canva         | English     | A poster use with `Dream City` |
-| 16 | [technology-labor-market/](https://nguyengiabach.com/presentations/technology-labor-market)| Oct 17/2024 | Canva      | Technology  | Labor market in T.'s field     |
+| 16 | [technology-labor-market/](https://nguyengiabach.com/presentations/technology-labor-market)| Oct 17/2024 | Canva      | Technology  | Labor market in IT field       |
 | 17 | [20-10-2024/](https://nguyengiabach.com/presentations/20-10-2024)                       |Oct 19/2024  | Canva         |             | For International Women's Day  |
 | 18 | [vn-population-quiz/](https://nguyengiabach.com/presentations/vn-population-quiz)       |Oct 25/2024  | Argoo         | Geography   | Quiz about Vietnam's population|
 | 19 | [insurance/](https://nguyengiabach.com/presentations/insurance)                         |Oct 28/2024  | Canva         | Maths       | Get acquainted with insurance  |
