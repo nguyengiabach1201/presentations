@@ -22,7 +22,8 @@ Here is where I store all of my presentations:
 | 18 | [vn-population-quiz/](https://nguyengiabach.com/presentations/vn-population-quiz)       |Oct 25/2024  | Argoo         | Geography   | Quiz about Vietnam's population|
 | 19 | [insurance/](https://nguyengiabach.com/presentations/insurance)                         |Oct 28/2024  | Canva         | Maths       | Get acquainted with insurance  |
 | 20 | [insurance-calculator/](https://nguyengiabach.com/presentations/insurance-calculator)   |Oct 28/2024  | Custom-built  | Maths       | A website use with `Insurance` |
-| 21 | [chu-nom/](https://nguyengiabach.com/presentations/chu-nom)                             |Nov 20/2024  |               | Litterature | Chữ Nôm and its effect         |
+| 21 | [community-service-2/](https://nguyengiabach.com/presentations/community-service-2)     |Oct 30/2024  | Canva         | CE          | Teens and community service    |
+| 22 | [chu-nom/](https://nguyengiabach.com/presentations/chu-nom)                             |Nov 20/2024  |               | Litterature | Chữ Nôm and its effect         |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
