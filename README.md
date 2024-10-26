@@ -12,7 +12,7 @@ Here is where I store all of my presentations:
 | 8  | [climate-change/](https://nguyengiabach.com/presentations/climate-change)               | Sep 30/2024 | Custom-built  | Litterature | Climate change in Hue City     |
 | 9  | [information/](https://nguyengiabach.com/presentations/information)                     | Sep 30/2024 | Canva         | IT          | The importance of information  |
 | 10 | [ww2/](https://nguyengiabach.com/presentations/ww2)                                     | Oct 06/2024 | Canva         | History     | About World War 2              |
-| 11 | [surrealism/](https://nguyengiabach.com/presentations/surrealism)                       | Oct 08/2024 | Canva         | Art         | Explain surrealism's drawingd  |
+| 11 | [surrealism/](https://nguyengiabach.com/presentations/surrealism)                       | Oct 08/2024 | Canva         | Art         | Explain surrealism's drawings  |
 | 12 | [school-age/](https://nguyengiabach.com/presentations/school-age)                       | Oct 09/2024 | Custom-built  | Litterature | The lost of innocence          |
 | 13 | [community-service/](https://nguyengiabach.com/presentations/community-service)         | Oct 09/2024 | Argoo         | CE          | About community service        |
 | 14 | [dream-city/](https://nguyengiabach.com/presentations/dream-city)                       | Oct 16/2024 | Canva         | English     | Our dream Hue City             |
