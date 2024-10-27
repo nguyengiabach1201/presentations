@@ -4,11 +4,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tính toán tiền bảo hiểm nhân thọ</title>
+    <title>Tính bảo hiểm nhân thọ</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
+    <div class="container">
+        <h1>Bảo hiểm nhân thọ</h1>
+        <form id="insuranceForm">
+            <label for="income">Thu nhập hàng tháng (triệu Đồng):</label>
+            <input type="number" id="income" required>
 
+            <label for="years">Số năm thay thế thu nhập:</label>
+            <input type="number" id="years" required>
+
+            <label for="debt">Tổng số nợ (triệu Đồng):</label>
+            <input type="number" id="debt" required>
+
+            <label for="savings">Số tiền tiết kiệm (triệu Đồng):</label>
+            <input type="number" id="savings" required>
+
+            <label for="education">Chi phí giáo dục (triệu Đồng):</label>
+            <input type="number" id="education" required>
+
+            <button type="submit">Tính</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script src="script.js"></script>
 </body>
 
 </html>
