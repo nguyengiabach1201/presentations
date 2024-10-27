@@ -18,9 +18,10 @@ document
             savings * Math.pow(1.01, years) +
             education;
 
-        document.getElementById(
-            "result"
-        ).textContent = `Bạn sẽ cần khoảng ${totalCoverage.toFixed(
-            2
-        )} triệu Đồng trong phạm vi bảo hiểm nhân thọ.`;
+        document.getElementById("result").textContent = `Bạn sẽ cần khoảng 
+            ${new Intl.NumberFormat("de-DE", {
+                style: "currency",
+                currency: "VND",
+            }).format(totalCoverage.toFixed(2) * 1000000)}
+         trong phạm vi bảo hiểm nhân thọ.`;
     });
