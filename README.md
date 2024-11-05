@@ -1,7 +1,7 @@
 Here is where I store all of my presentations in the year of 2024:
 
-| No | Name                                                                       | Date        | Made with     | Subject     | Note                           |
-|:--:|----------------------------------------------------------------------------|-------------|---------------|-------------|--------------------------------|
+| No | Name                                                    | Date        | Made with     | Subject     | Note                           |
+|:--:|---------------------------------------------------------|-------------|---------------|-------------|--------------------------------|
 | 01 | [seurat/](./2024/seurat/)                               | Jan 29 2024 | Prezen (v0.5) | Art         | About artist George Seurat     |
 | 02 | [school-garden/](./2024/school-garden/)                 | Apr 05 2024 | Prezen (v0.5) | EX          | The exploration of the garden  |
 | 03 | [mua-nuoc-noi/](./2024/mua-nuoc-noi/)                   | Apr 11 2024 | Prezen (v1.0) | Litterature | Flood season in Mekong Delta   |
