@@ -1,5 +1,3 @@
-# 2024 presentations
-
 Here is where I store all of my presentations in the year of 2024:
 
 | No | Name                                                                       | Date        | Made with     | Subject     | Note                           |
