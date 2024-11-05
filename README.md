@@ -23,7 +23,8 @@ Here is where I store all of my presentations:
 | 19 | [insurance/](https://nguyengiabach.com/presentations/insurance)                         |Oct 28 2024  | Canva         | Maths       | Get acquainted with insurance  |
 | 20 | [insurance-calculator/](https://nguyengiabach.com/presentations/insurance-calculator)   |Oct 28 2024  | Custom-built  | Maths       | A website use with `Insurance` |
 | 21 | [community-service-2/](https://nguyengiabach.com/presentations/community-service-2)     |Oct 30 2024  | Canva, Capcut | CE          | Teens and community service    |
-| 22 | [chu-nom/](https://nguyengiabach.com/presentations/chu-nom)                             |Nov 20 2024  |               | Litterature | Chữ Nôm and its effect         |
+| 22 | [nonmetal/](https://nguyengiabach.com/presentations/nonmetal)                           |Nov 16 2024  |               | Chemistry   | Nonmetal and its uses          |
+| 23 | [chu-nom/](https://nguyengiabach.com/presentations/chu-nom)                             |Nov 20 2024  |               | Litterature | Chữ Nôm and its effect         |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
