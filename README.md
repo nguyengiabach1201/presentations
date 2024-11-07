@@ -23,8 +23,8 @@ Here is where I store all of my presentations in the year of 2024:
 | 19 | [insurance/](./2024/insurance/)                         | Oct 28 2024 | Canva         | Maths       | Get acquainted with insurance  |
 | 20 | [insurance-calculator/](./2024/insurance-calculator/)   | Oct 28 2024 | Cephes        | Maths       | A website use with `Insurance` |
 | 21 | [community-service-2/](./2024/community-service-2/)     | Oct 30 2024 | Canva, Capcut | CE          | Teens and community service    |
-| 22 | [nonmetal/](./2024/nonmetal/)                           | Nov 16 2024 |               | Chemistry   | Nonmetal and its uses          |
-| 23 | [chu-nom/](./2024/chu-nom/)                             | Nov 20 2024 |               | Litterature | Chữ Nôm and its effect         |
+| 22 | [nonmetal/](./2024/nonmetal/)                           | Nov 16 2024 | Canva         | Chemistry   | Nonmetal and its uses          |
+| 23 | [chu-nom/](./2024/chu-nom/)                             | Nov 20 2024 | Canva, Capcut | Litterature | Chữ Nôm and its effect         |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
