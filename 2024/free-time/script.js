@@ -5,88 +5,36 @@ console.log(img, des);
 
 const gallery = [
     {
+        src: "./imgs/1.jpg",
+        des: "Thời gian rảnh rỗi",
+    },
+    {
+        src: "./imgs/2.jpg",
+        des: "Vui chơi cùng bạn bè",
+    },
+    {
+        src: "./imgs/3.jpg",
+        des: "Dành thời gian cho gia đình",
+    },
+    {
+        src: "./imgs/4.jpg",
+        des: "Chơi thể thao, vận động để giải trí",
+    },
+    {
         src: "./imgs/5.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
+        des: "Nghiện game - thực trạng phổ biến!",
     },
     {
         src: "./imgs/6.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
+        des: "Nghiện mạng xã hội - lờ đờ, uể oải",
     },
     {
         src: "./imgs/7.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
+        des: "Nói xấu - hại người, hại ta",
     },
     {
         src: "./imgs/8.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/9.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/10.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/11.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/12.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/13.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/14.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/15.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/16.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/17.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/18.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/19.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/20.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/21.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/22.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/23.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/24.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
-    },
-    {
-        src: "./imgs/25.jpg",
-        des: "Tuổi học trò hồn nhiên, ngây thơ",
+        des: "Trang web đen - ác quỷ chực chờ",
     },
 ];
 
