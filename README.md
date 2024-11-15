@@ -27,7 +27,7 @@ Here is where I store all of my presentations in the year of 2024:
 | 23 | [nonmetal/](./2024/nonmetal/)                           | Nov 16 2024 | Canva         | Chemistry   | Nonmetal and its uses          |
 | 24 | [fashion-show/](./2024/fashion-show/)                   | Nov 19 2024 | Canva         | Art         | A fashion show in my class     |
 | 25 | [chu-nom/](./2024/chu-nom/)                             | Nov 20 2024 | Canva, Capcut | Litterature | Chữ Nôm and its effect         |
-| 26 | [occupations/](./2024/occupations)                      | Nov 21 2024 | Canva         | Technology  | Occupations research           |
+| 26 | [occupations/](./2024/occupations)                      | Nov 21 2024 | Canva         | Technology  | Research about occupations     |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
