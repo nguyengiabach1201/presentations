@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slideshow</title>
+
+    <link rel="stylesheet" href="./theme.css">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./transition-effect.css">
+    <link rel="stylesheet" href="./layout.css">
+
+    <!-- Icons support -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- LaTex support -->
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+        </script>
+
+    <!-- Chart support -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+</head>
+
+<body>
+    <div class="container">
+        <div id="presentation-area">
+            <section class="presentation">
+                <div class="slide show ef1">
+                    <div class="content grid center">
+                        <br><br><br>
+                        <h1>
+                            Show diễn mùa hè
+                        </h1>
+                        <h3 style="font-size: 40px;">
+                            Tổ 2 - Lớp 9/8
+                        </h3>
+                        <br><br><br>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            Thời trang đánh bay thời tiết!!!
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            "Luonyeudoi"
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            "Luonvuituoi"
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            !!!Thanks!!!
+                        </h1>
+                    </div>
+                </div>
+
+            </section>
+
+            <section class="counter"></section>
+
+            <section class="navigation">
+                <button id="left-btn" class="btn">
+                    <i class="fas fa-solid fa-caret-left"></i>
+                </button>
+
+                <button id="right-btn" class="btn">
+                    <i class="fa-solid fa-caret-right"></i>
+                </button>
+            </section>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+    <script src="./swipe.js"></script>
+</body>
+
+</html>
