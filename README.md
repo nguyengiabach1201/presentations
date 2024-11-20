@@ -25,7 +25,7 @@ Here is where I store all of my presentations in the year of 2024:
 | 21 | [community-service-2/](./2024/community-service-2/)     | Oct 30 2024 | Canva, Capcut | CE          | Teens and community service    |
 | 22 | [free-time/](./2024/free-time/)                         | Nov 11 2024 | Cephes        | Litterature | How teens use their free time  |
 | 23 | [nonmetal/](./2024/nonmetal/)                           | Nov 16 2024 | Canva         | Chemistry   | Nonmetal and its uses          |
-| 24 | [chu-nom/](./2024/chu-nom/)                             | Nov 20 2024 | Canva, Capcut | Litterature | Chữ Nôm and its effect         |
+| 24 | [chu-nom/](./2024/chu-nom/)                             | Nov 20 2024 | Clipchamp     | Litterature | Chữ Nôm and its effect         |
 | 25 | [occupations/](./2024/occupations)                      | Nov 22 2024 | Canva         | Technology  | Research about occupations     |
 | 26 | [fashion-show/](./2024/fashion-show/)                   | Nov 16 2024 | Canva         | Art         | A fashion show in my class     |
 
