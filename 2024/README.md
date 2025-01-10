@@ -21,7 +21,7 @@ Here is where I store all of my presentations in the year of 2024:
 | 17  | [20-10-2024/](./20-10-2024/)                           | Oct 19 2024 | Canva         |             | For International Women's Day   |
 | 18  | [vn-population-quiz/](./vn-population-quiz/)           | Oct 25 2024 | Argoo (v1)    | Geography   | Quiz about Vietnam's population |
 | 19  | [insurance/](./insurance/)                             | Oct 28 2024 | Canva         | Maths       | Get acquainted with insurance   |
-| 20  | [insurance-calculator/](./insurance-calculator/)       | Oct 28 2024 | Cephes        | Maths       | A website use with `Insurance`  |
+| 20  | [insurance-calculator/](./insurance-calculator/)       | Oct 28 2024 | Custom-built  | Maths       | A website use with `Insurance`  |
 | 21  | [community-service-2/](./community-service-2/)         | Oct 30 2024 | Canva, Capcut | CE          | Teens and community service     |
 | 22  | [free-time/](./free-time/)                             | Nov 11 2024 | Cephes        | Litterature | How teens use their free time   |
 | 23  | [nonmetal/](./nonmetal/)                               | Nov 16 2024 | Canva         | Chemistry   | Nonmetal and its uses           |
