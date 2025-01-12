@@ -6,4 +6,5 @@ Here is where I store all of my presentations (and sometimes my friends') in the
 | 02  | [northen-central-coast/](./2025/northen-central-coast)      | Jan 13 2025 | Canva         | Geography   |                                 |
 | 03  |[northen-central-coast-huy/](./2025/northen-central-coast-huy)|Jan 13 2025 | Canva         | Geography   | It's Huy's, not mine:)          |
 
-> [!NOTE] > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
+> [!NOTE]
+> `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
