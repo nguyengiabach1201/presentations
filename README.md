@@ -1,4 +1,4 @@
-Here is where I store all of my presentations in the year of 2025:
+Here is where I store all of my presentations (and sometimes my friends') in the year 2025:
 
 | No  | Name                                                        | Date        | Made with     | Subject     | Note                            |
 | :-: | ----------------------------------------------------------- | ----------- | ------------- | ----------- | ------------------------------- |
