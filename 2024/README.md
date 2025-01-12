@@ -1,4 +1,4 @@
-Here is where I store all of my presentations in the year of 2024:
+Here is where I store all of my presentations in the year 2024:
 
 | No  | Name                                                        | Date        | Made with     | Subject     | Note                            |
 | :-: | ----------------------------------------------------------- | ----------- | ------------- | ----------- | ------------------------------- |
@@ -30,4 +30,5 @@ Here is where I store all of my presentations in the year of 2024:
 | 26  | [fashion-show/](./fashion-show/)                       | Nov 26 2024 | Canva         | Art         | A fashion show in my class      |
 | 27  | [occupations/](./occupations)                          | Nov 29 2024 | Canva         | Technology  | Research about occupations      |
 
-> [!NOTE] > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
+> [!NOTE]
+> `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
