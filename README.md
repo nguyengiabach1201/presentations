@@ -5,6 +5,7 @@ Here is where I store all of my presentations (and sometimes my friends') in the
 | 01  | [ex-quiz/](./2025/ex-quiz)                                  | Jan 11 2025 | Canva         | EX          | A quiz for EX                   |
 | 02  | [northen-central-coast/](./2025/northen-central-coast)      | Jan 13 2025 | Canva         | Geography   |                                 |
 | 03  |[northen-central-coast-huy/](./2025/northen-central-coast-huy)|Jan 13 2025 | Canva         | Geography   | It's Huy's, not mine:)          |
+| 04  | [tinkercad/](./2025/tinkercad)                              |Jan 13 2025  |Canva, TinkerCAD| IT         | About simulators and TinkerCAD  |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
