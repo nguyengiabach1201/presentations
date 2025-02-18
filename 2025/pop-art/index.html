@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slideshow</title>
+
+    <link rel="stylesheet" href="./theme.css">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./transition-effect.css">
+    <link rel="stylesheet" href="./layout.css">
+
+    <!-- Icons support -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- LaTex support -->
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+        </script>
+
+    <!-- Chart support -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+</head>
+
+<body>
+    <div class="container">
+        <div id="presentation-area">
+            <section class="presentation">
+                <div class="slide show ef1">
+                    <div class="content grid center">
+                        <h1>
+                            Pop art!
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <img src="https://www.singulart.com/images/artworks/v2/cropped/31881/main/zoom/1792024_6f7a0cbbdc93019dc34bbfc8c36e1baf.jpeg"
+                            alt="">
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            Pop art là viết tắt của chữ popular art tức nghệ thuật đại chúng
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            Pop art là trào lưu mỹ thuật xuất phát từ nghệ thuật đại chúng của thời đại công nghiệp
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <img src="https://blog.artsper.com/wp-content/uploads/2018/01/Andy-2-min-2.jpg" alt="">
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <img src="https://i.pinimg.com/736x/17/e5/8b/17e58b18ed7da52d67b3d8da1d34f7c5.jpg" alt="">
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <img src="https://ik.imagekit.io/theartling/prod/tr:w-1840,c-at_max/original_images/Screenshot_2019-07-30_at_5.10.25_PM.png"
+                            alt="">
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            Pop art ra đời vào giữa thập niên 1950
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>
+                            Phong trào này được xem như một phản ứng đối với chủ nghĩa biểu hiện trừu tượng, nhằm làm
+                            nghệ thuật trở nên gần gũi hơn với đời sống hàng ngày.
+                        </h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <img src="https://www.artviet.net/wp-content/uploads/Chan-dung-Andy-Warhol.png" alt="">
+                        <h1>Andy Warhol - "Vua" pop art</h1>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <iframe width="560" height="315"
+                            src="https://www.youtube.com/embed/7VH5MRtk9HQ?si=nP4S5UsqKoBjgDc8"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="slide ef1">
+                    <div class="content grid center">
+                        <h1>Cảm ơn Thầy và các bạn đã chú ý lắng nghe!!!</h1>
+                    </div>
+                </div>
+
+            </section>
+
+            <section class="counter"></section>
+
+            <section class="navigation">
+                <button id="left-btn" class="btn">
+                    <i class="fas fa-solid fa-caret-left"></i>
+                </button>
+
+                <button id="right-btn" class="btn">
+                    <i class="fa-solid fa-caret-right"></i>
+                </button>
+            </section>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+    <script src="./swipe.js"></script>
+</body>
+
+</html>
