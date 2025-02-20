@@ -10,5 +10,3 @@ Here is where I store all of my presentations (and sometimes my friends') in the
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
-
-'''https://www.canva.com/design/DAGfkDaFICc/wzz8gbyKl5q-1ejKtwIyAA/edit'''
