@@ -9,6 +9,7 @@ Here is where I store all of my presentations (and sometimes my friends') in the
 | 05  | [pop-art/](./2025/pop-art)                                  | Feb 19 2025 | Prezen (v0.5) | Art         | The history of pop art          |
 | 05  | [8-3-2025/](./2025/8-3-2025)                                | Mar 8 2025  | Argoo (v2)    |             |                                 |
 | 06  | [world-englishes/](./2025/world-englishes)                  | Mar 31 2025 | Canva         | English     | About Singaporean English       |
+| 07  | [silk/](./2025/silk)                                        | Apr 12 2025 | Canva         | Chemistry   | About silk           |
 
 > [!NOTE]
 > `EX`: Experiential Activities, `CE`: Civic Education, `IT`: Information Technology.
