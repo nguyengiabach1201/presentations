@@ -9,7 +9,7 @@ style: |
     }
 ---
 
-## Hệ Thức Cấp Hai (Quy Tắc Cramer)
+## **Hệ Thức Cấp Hai (Quy Tắc Cramer)**
 
 ---
 
@@ -57,4 +57,4 @@ Quy tắc này không chỉ mang tính _hàn lâm_ mà còn cực kỳ hữu íc
 
 ## Cùng thử với phần mềm mẫu
 
-Nhấn vào [đây](https://onlinegdb.com/9iucEUWEQ) để thử với phần mềm sử dụng quy tắc Cramer để xét vị trí tương đối của hai đường thẳng trong mặt phẳng tọa độ $Oxy$ viết bằng Free Pascal!
+Nhấn vào [đây](https://onlinegdb.com/xvMAmJDP3) để thử với phần mềm sử dụng quy tắc Cramer để xét vị trí tương đối của hai đường thẳng trong mặt phẳng tọa độ $Oxy$ viết bằng Free Pascal!
